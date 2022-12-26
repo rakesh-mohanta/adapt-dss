@@ -868,6 +868,83 @@
       "Survey calls attempted": "null",
       "Survey calls completed": "null",
       "Incoming calls on LCC": "169"
+    },
+    {
+      "date": "2022-12-19",
+      "Advisories sent": "986965",
+      "Number of unique farmers getting advisory": "437357",
+      "Advisory calls picked up": "47.29",
+      "Average call duration (seconds)": "53.83",
+      "Unique advisories sent": "5",
+      "Survey calls attempted": "7794",
+      "Survey calls completed": "1898",
+      "Incoming calls on LCC": "325"
+    },
+    {
+      "date": "2022-12-20",
+      "Advisories sent": "867981",
+      "Number of unique farmers getting advisory": "410439",
+      "Advisory calls picked up": "41.56",
+      "Average call duration (seconds)": "64.08",
+      "Unique advisories sent": "11",
+      "Survey calls attempted": "7491",
+      "Survey calls completed": "1794",
+      "Incoming calls on LCC": "227"
+    },
+    {
+      "date": "2022-12-21",
+      "Advisories sent": "1148180",
+      "Number of unique farmers getting advisory": "536452",
+      "Advisory calls picked up": "37.22",
+      "Average call duration (seconds)": "62.7",
+      "Unique advisories sent": "2",
+      "Survey calls attempted": "6816",
+      "Survey calls completed": "406",
+      "Incoming calls on LCC": "254"
+    },
+    {
+      "date": "2022-12-22",
+      "Advisories sent": "1152139",
+      "Number of unique farmers getting advisory": "506205",
+      "Advisory calls picked up": "42.76",
+      "Average call duration (seconds)": "64.74",
+      "Unique advisories sent": "1",
+      "Survey calls attempted": "8222",
+      "Survey calls completed": "1838",
+      "Incoming calls on LCC": "255"
+    },
+    {
+      "date": "2022-12-23",
+      "Advisories sent": "1148277",
+      "Number of unique farmers getting advisory": "591711",
+      "Advisory calls picked up": "37.75",
+      "Average call duration (seconds)": "57.61",
+      "Unique advisories sent": "5",
+      "Survey calls attempted": "7458",
+      "Survey calls completed": "1749",
+      "Incoming calls on LCC": "251"
+    },
+    {
+      "date": "2022-12-24",
+      "Advisories sent": "1100374",
+      "Number of unique farmers getting advisory": "803400",
+      "Advisory calls picked up": "29.48",
+      "Average call duration (seconds)": "55.21",
+      "Unique advisories sent": "3",
+      "Survey calls attempted": "null",
+      "Survey calls completed": "null",
+      "Incoming calls on LCC": "287"
+    },
+    {
+      "date": "2022-12-25",
+      "Advisories sent": "1150421",
+      "Number of unique farmers getting advisory": "535597",
+      "Advisory calls picked up": "40.72",
+      "Average call duration (seconds)": "49.9",
+      "Unique advisories sent": "1",
+      "Survey calls attempted": "null",
+      "Survey calls completed": "null",
+      "Incoming calls on LCC": "289"
     }
   ]
 }
